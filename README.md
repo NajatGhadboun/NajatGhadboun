@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 Hi there, I'm Najat Ghadboun
+- 👀 I'm a Software Engineer with a focused interest in AI Engineering.
+- 🔭 I'm currently working on end-to-end AI projects covering generative AI and multi-agent systems
+- 👯 I'm always open to learning, collaboration, and opportunities where I can add value while continuing to grow
+- 📫 You can reach me out via:  https://www.linkedin.com/in/najatghadboun/
 
 <!--
 **NajatGhadboun/NajatGhadboun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
